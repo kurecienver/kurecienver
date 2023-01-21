@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Enver</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">Founder at Frechu Agency</h3>
 
 
 
-- 📫 How to reach me **enver.kureci@frechu.com**
+📫 How to reach me **enver.kureci@frechu.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
